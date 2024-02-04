@@ -18,11 +18,7 @@ ul{
 list-style:none;
 
 }
-.active {
-color:#fc036b;
-text-decoration:underline;
-font-weight:bold;
-}
+
 
 header{
 
@@ -85,19 +81,9 @@ padding:0px 40px;
 .events .ctn{
 margin-top:30px;
 }
-button{
-padding:8px 15px;
-background:purple;
-text-color:white;
-border-radius:30px;
-color:whitesmoke;
-}
 
 
-@media only screen and (max-width:850px){
-.navbar{
-padding:0;
-}
+
 .logo{
 position:absolute;
 top:30px;
