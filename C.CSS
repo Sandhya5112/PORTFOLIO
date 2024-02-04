@@ -5,8 +5,10 @@ padding:0;
 box-sizing:border-box;
 }
 body {
-  outline: 1vmin solid black; 
-  padding: 2px;
+   margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
 }
 
 a {
