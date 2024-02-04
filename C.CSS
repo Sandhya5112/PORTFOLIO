@@ -28,11 +28,6 @@ left:0;
 display:flex;
 width:100%;
 justify-content:space-between;
-padding-left:30px;
-padding-right:50px;
-padding-top:0px;
-padding-bottom:0px;
-
 color:whitesmoke;
 }
 header{
@@ -68,7 +63,7 @@ text-algin:center;
 font-size:4vmin;
 
 }
-.
+
 .header-content h1{
 font-size:15vmin;
 margin-top:20px;
@@ -125,8 +120,6 @@ background:#484872;
 margin-top:-900px;
 transition:all 0.5s ease;
 }
-
-
 .nav-links li{
 margin:30px auto;
 
