@@ -24,7 +24,12 @@ text-decoration:underline;
 font-weight:bold;
 }
 .navbar {
-
+position:absolute;
+top:0;
+left:0;
+display:flex;
+justify-content:space-between;
+color:whitesmoke;
 }
 header{
 
